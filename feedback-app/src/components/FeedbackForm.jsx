@@ -37,6 +37,7 @@ function FeedbackForm({handleAdd}) {
             
         }
         setText('')
+        setBtnDisabled(true)
     }
   return (
     <Card>
