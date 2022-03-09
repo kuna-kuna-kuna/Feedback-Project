@@ -1,0 +1,19 @@
+{
+  "feedback": [
+    {
+      "id": 1,
+      "rating": 10,
+      "text": "this is feedback from backend 1"
+    },
+    {
+      "text": "this is feedback from backend 2 update",
+      "rating": 8,
+      "id": 2
+    },
+    {
+      "text": "Novi komentar s bekendom i update-om",
+      "rating": 7,
+      "id": 4
+    }
+  ]
+}
